@@ -26,6 +26,7 @@
 		24A61F3E486CF5F33697B424 /* StatTile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353DC451A7F75BA4B45AC19E /* StatTile.swift */; };
 		25F18B36904AF25326D8BE58 /* PackageFolderTabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D666FF53604015635072B11 /* PackageFolderTabs.swift */; };
 		263C1FC782268B6C4E960F22 /* DevicePairingService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A61B6CE9B5742E20AC4A57E /* DevicePairingService.swift */; };
+		26595A5C1F9515512214F2CA /* InstagramInsightsRepository.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4BB7B9E15D0562AE9F7D98 /* InstagramInsightsRepository.swift */; };
 		26F56EF8F6C7F5F1EB91404F /* OnboardingSelectionComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E3B80FE778513A5770539C /* OnboardingSelectionComponents.swift */; };
 		27037851C85D7F3063B6B54D /* RuntimeConfigurationStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEC8DC58428F1699BEB425D7 /* RuntimeConfigurationStore.swift */; };
 		2940295B3DE8A914016EBF11 /* AuthenticationDTOs.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF707A0EDF15BE1081E06761 /* AuthenticationDTOs.swift */; };
@@ -39,6 +40,7 @@
 		3A5D41F83414D6D085C0C631 /* AppServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42BD41A8C80F9A15CA1DAD88 /* AppServices.swift */; };
 		435AA4EA9358058B2C5D3B87 /* PlanGenerationInputsSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72DAF075D8CA3C41A4F79743 /* PlanGenerationInputsSummary.swift */; };
 		45CD8BDB68F53E5B36BCC233 /* WriteContentDTOs.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3FB713073CF44BD44318FC /* WriteContentDTOs.swift */; };
+		45F12BCCA8EBB5B586D37E41 /* InstagramInsightsDTOs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883ED8345D4549EDD33A666A /* InstagramInsightsDTOs.swift */; };
 		481AFA168D18FCD0037E78C0 /* GeneratedStoryboardBreakdownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F58885C0A0B48C185935DBAA /* GeneratedStoryboardBreakdownTests.swift */; };
 		487B5B3069C26B0E46782FAC /* DayLifecycleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDA7E67BCDE7382CF0DF9953 /* DayLifecycleTests.swift */; };
 		498ED61592CA7E82A494C8C9 /* CreatorShellNavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 418C02D02DD29D0BB6D88EBF /* CreatorShellNavigationTests.swift */; };
@@ -118,6 +120,7 @@
 		D57000EE2DF30936B4B77506 /* OnboardingModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36E1481B7A1C4DBFBECFE916 /* OnboardingModels.swift */; };
 		D69C5B5074190637BAECC267 /* PocketSheetComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6B5052AD208BF868061145 /* PocketSheetComponents.swift */; };
 		D6FA5625DF2179CB5D127FDD /* TodayCacheStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843D5A526CCBA04114C4A72A /* TodayCacheStore.swift */; };
+		DBE175F5FA7D8FBFC5644220 /* InstagramOAuth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B3F90602B1A67549E268E83 /* InstagramOAuth.swift */; };
 		DC744D8BDFF1C05E194D88F8 /* DeviceReadDTOs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47FD85E986A31DFFB0B5FF3F /* DeviceReadDTOs.swift */; };
 		DE6ECBE40B13D03BDD2F3983 /* GeneratedStoryboardBreakdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D7E49F920DF70C5EEE2E7C2 /* GeneratedStoryboardBreakdown.swift */; };
 		E3BD409D4CCB2EFABDB5049F /* NotTodaySheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CA513EE516274570D68E102 /* NotTodaySheet.swift */; };
@@ -170,6 +173,7 @@
 		38046C9F47183FB73FF43F78 /* TodayNotificationScheduler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayNotificationScheduler.swift; sourceTree = "<group>"; };
 		390AA06EEADD04BA65F405E7 /* YouProductionPreferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouProductionPreferencesView.swift; sourceTree = "<group>"; };
 		3B71123A9708E0C9AF22EE7B /* PocketSheetTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PocketSheetTheme.swift; sourceTree = "<group>"; };
+		3E4BB7B9E15D0562AE9F7D98 /* InstagramInsightsRepository.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramInsightsRepository.swift; sourceTree = "<group>"; };
 		3EE255FA0EF482DA23D852FA /* OnboardingFirstIdeaBriefBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFirstIdeaBriefBuilder.swift; sourceTree = "<group>"; };
 		418C02D02DD29D0BB6D88EBF /* CreatorShellNavigationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatorShellNavigationTests.swift; sourceTree = "<group>"; };
 		42BD41A8C80F9A15CA1DAD88 /* AppServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppServices.swift; sourceTree = "<group>"; };
@@ -205,6 +209,7 @@
 		72E423A3C4E546833B068D71 /* YouReferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouReferencesView.swift; sourceTree = "<group>"; };
 		754A2AAFEEABD9880DC35BC9 /* PlanDayIdeaBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanDayIdeaBuilder.swift; sourceTree = "<group>"; };
 		79C80E2B2E609414F002A71F /* RuntimeConfigurationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RuntimeConfigurationTests.swift; sourceTree = "<group>"; };
+		7B3F90602B1A67549E268E83 /* InstagramOAuth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramOAuth.swift; sourceTree = "<group>"; };
 		7CA513EE516274570D68E102 /* NotTodaySheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotTodaySheet.swift; sourceTree = "<group>"; };
 		7E32D034AD676323CB6460BB /* FirstIdeaHandoffTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstIdeaHandoffTests.swift; sourceTree = "<group>"; };
 		7FE399DCDEF2149F42AD4F36 /* TodayPocketPresentation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayPocketPresentation.swift; sourceTree = "<group>"; };
@@ -212,6 +217,7 @@
 		841DF7EDB29CDAA19966D24A /* YouView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouView.swift; sourceTree = "<group>"; };
 		843D5A526CCBA04114C4A72A /* TodayCacheStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayCacheStore.swift; sourceTree = "<group>"; };
 		87FFA552E0792F8074AA8999 /* CreatorContentOS.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = CreatorContentOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		883ED8345D4549EDD33A666A /* InstagramInsightsDTOs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramInsightsDTOs.swift; sourceTree = "<group>"; };
 		89542C68A1D54D9D59222CFC /* TodayPlanEntryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayPlanEntryTests.swift; sourceTree = "<group>"; };
 		89FD76E9AE309C04BD386C58 /* GenerationDTOs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerationDTOs.swift; sourceTree = "<group>"; };
 		8A492ED77F7A7048BAF8F419 /* HowYouAreDoingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowYouAreDoingView.swift; sourceTree = "<group>"; };
@@ -378,6 +384,9 @@
 				47FD85E986A31DFFB0B5FF3F /* DeviceReadDTOs.swift */,
 				89FD76E9AE309C04BD386C58 /* GenerationDTOs.swift */,
 				AB14BD1517D58F100FE112CF /* GenerationLogFile.swift */,
+				883ED8345D4549EDD33A666A /* InstagramInsightsDTOs.swift */,
+				3E4BB7B9E15D0562AE9F7D98 /* InstagramInsightsRepository.swift */,
+				7B3F90602B1A67549E268E83 /* InstagramOAuth.swift */,
 				3EE255FA0EF482DA23D852FA /* OnboardingFirstIdeaBriefBuilder.swift */,
 				A06425D2069B1BF8AF650AAB /* OnboardingFirstIdeaHandoff.swift */,
 				C90557DA178FDB72809DE825 /* ReferenceImportDTOs.swift */,
@@ -766,6 +775,9 @@
 				C00BF1D82198593B383A01A2 /* GenerationLogFile.swift in Sources */,
 				689ED857B123F6A7899E25CD /* HowYouAreDoingView.swift in Sources */,
 				13528AA57FB91E514E27AA5E /* InstagramInsights.swift in Sources */,
+				45F12BCCA8EBB5B586D37E41 /* InstagramInsightsDTOs.swift in Sources */,
+				26595A5C1F9515512214F2CA /* InstagramInsightsRepository.swift in Sources */,
+				DBE175F5FA7D8FBFC5644220 /* InstagramOAuth.swift in Sources */,
 				9E8E80AA9E831480188CA14A /* IntelligenceHomeView.swift in Sources */,
 				733F66CC1224251437A7D210 /* Models.swift in Sources */,
 				E3BD409D4CCB2EFABDB5049F /* NotTodaySheet.swift in Sources */,
